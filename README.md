@@ -12,8 +12,8 @@ Enjoy :)
 
 ### Usages: ###
 
-	```
-	elementPresence('.element-class').then( ( element ) => { 
-		myOtherFunction() 
-	});
-	```
+```
+elementPresence('.element-class').then( ( element ) => { 
+	myOtherFunction() 
+});
+```
