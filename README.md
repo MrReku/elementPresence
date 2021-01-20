@@ -1,4 +1,4 @@
-# ElementPresence V1.1 #
+# ElementPresence V1.0 #
 
 ### Author: Andrea Lai (me@andrealai.com), ###
 
@@ -11,6 +11,8 @@ no matter how or when the element is injected in the page, ElementPresence is go
 Enjoy :) 
 
 ### Usages: ###
+
+As a parameter you can use any valid selector you normally use with `querySelector` and `querySelectorAll`.
 
 ```
 elementPresence('.element-class').then( ( element ) => { 
